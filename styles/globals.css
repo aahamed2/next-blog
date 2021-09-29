@@ -25,3 +25,37 @@ img {
   max-width: 100%;
   display: block;
 }
+
+  
+
+.comments{
+  border: 1px black;
+background-color: whitesmoke;
+display: grid;
+
+}
+
+  
+
+.comments ul{
+
+  padding: 20px;
+color:black;
+font-weight: bold;
+font-size: 15px;
+text-decoration: underline;
+}
+
+
+.comments input{
+height: 30px;
+width: 400px;
+
+}
+
+
+
+.comments button{
+width: fit-content;
+height: auto;
+}
